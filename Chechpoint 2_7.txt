@@ -1,0 +1,5 @@
+1. git log
+
+2. git status
+
+3. git innit
